@@ -35,3 +35,6 @@ __pycache__/
 *.plan
 *.csv
 *.log
+
+!/README.md
+!/screenshot.png
